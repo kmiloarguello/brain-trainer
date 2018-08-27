@@ -176,6 +176,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="200dp"
             android:background="@color/white"
+            android:onClick="startGame"
             android:paddingHorizontal="50dp"
             android:text="Start"
             android:textColor="@color/colorPrimaryDark"
